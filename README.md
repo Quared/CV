@@ -1,3 +1,4 @@
+<img src="https://github.com/Quared/resume/blob/master/img/ava.png">
 <b>Date of birth:</b> April, 20, 1993<br>
 <b>Age:</b> 22 <br>
 <b>Marital status:</b> Single</b></br>
