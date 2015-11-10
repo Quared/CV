@@ -21,7 +21,7 @@
 
 <ul><h3>Additional Skills:</h3>
 
-<i>Langueges:</i><br>
+<i>Langueges:</i><br><hr>
 
 
 <li>English Intermediate</li>
