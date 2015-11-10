@@ -38,4 +38,4 @@
 <li><b>Learning:</b> JavaScript, jQuery, CSS3, HTML5, PHP</li></ul><hr>
 <ul><h3>My hobbies:</h3>
 <li>Fitness</li>
-<li>Crossfit</li></ul><hr>
+<li>Cinema</li></ul><hr>
