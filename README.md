@@ -21,12 +21,12 @@
 
 <ul><h3>Additional Skills:</h3>
 
-<i>Langueges:</i><br><hr>
+<i>Langueges:</i><br>
 
 
 <li>English Intermediate</li>
 <li>Ukrainian Native</li>
-<li>Russian Native</li></ul>
+<li>Russian Native</li></ul><hr>
 <ul><h3>Computer skills:</h3>
 
 <li>Windows, Mac OS</li>
