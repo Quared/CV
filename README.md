@@ -30,7 +30,9 @@
 <ul><h3>Computer skills:</h3>
 
 <li>Windows, Mac OS</li>
+<li>Microsoft Office</li>
 <li>Photoshop</li>
+<li>Intelij</li>
 <li>Sublime Text</li></ul><hr>
 <ul><h3>Professional skills:</h3>
 
