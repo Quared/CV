@@ -1,10 +1,11 @@
 <img src="https://github.com/Quared/resume/blob/master/img/ava.png">
 <b>Date of birth:</b> April, 20, 1993<br>
-<b>Age:</b> 22 <br>
+<b>Age:</b> 24 <br>
 <b>Marital status:</b> Single</b></br>
 <b>Address:</b> Dnepropetrovsk, Sherbiny st.21, app.104</br>
 <b>Skype:</b> quaredua<br>
 <b>Facebook</b> https://www.facebook.com/vova.mishakin<br>
+<b>Upwork</b> https://www.upwork.com/fl/webdev<br>
 <ul><h3>Objective:</h3>
 
 <li>Web developer (front-end)<br></li></ul><hr>
