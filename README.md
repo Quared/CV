@@ -33,15 +33,15 @@
 <li>Sublime Text</li></ul><hr>
 <ul><h3>Professional skills:</h3>
 
-✔️ HTML/HTML5/PSD to HTML - W3C valid, responsive 
-✔️ CSS/CSS3 , LESS/SASS/SCSS
-✔️ JavaScript, jQuery, ReactJS/Redux, JSON, AJAX
-✔️ WordPress, Woocommerce , DecoNetwork
-✔️ Responsive frameworks - Twitter Bootstrap, MaterializeCSS, Foundation
-✔️ Custom Websites Development 
-✔️ Git, BitBucket
-✔️ Zeplin , Trello
-✔️ PixelPerfect, Retina-Ready development (if requested)
+✔️ HTML/HTML5/PSD to HTML - W3C valid, responsive <br>
+✔️ CSS/CSS3 , LESS/SASS/SCSS <br>
+✔️ JavaScript, jQuery, ReactJS/Redux, JSON, AJAX <br>
+✔️ WordPress, Woocommerce , DecoNetwork <br>
+✔️ Responsive frameworks - Twitter Bootstrap, MaterializeCSS, Foundation <br>
+✔️ Custom Websites Development  <br>
+✔️ Git, BitBucket <br>
+✔️ Zeplin , Trello <br>
+✔️ PixelPerfect, Retina-Ready development (if requested)<br>
 <ul><h3>My hobbies:</h3>
 <li>Fitness</li>
 <li>Cinema</li></ul><hr>
