@@ -1,7 +1,7 @@
 <img src="https://github.com/Quared/resume/blob/master/img/205-104.jpg">
 <b>Date of birth:</b> April, 20, 1993<br>
 <b>Age:</b> 24 <br>
-<b>Marital status:</b> Single</b></br>
+<b>Marital status:</b> Married</b></br>
 <b>Address:</b> Dnepropetrovsk, Sherbiny st.21, app.104</br>
 <b>Skype:</b> quaredua<br>
 <b>Facebook</b> https://www.facebook.com/vova.mishakin<br>
