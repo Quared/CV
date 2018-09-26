@@ -18,9 +18,9 @@
 <li><b>(20010-2015)</b> Dnepropetrovsk State Institute of Physical Culture and Sports (Master of Physical Rehabilitation)<br></li></ul><hr>
 <ul><h3>Work expirience:</h3>
 
-<li><b>(November 2014 - January 2015) HOTWEB - HTML5/CSS3 Developer<br></li>
+<li><b>(November 2014 - January 2015) - HOTWEB - HTML5/CSS3 Developer<br></li>
 <li><b>(January 2015 - Present) Upwork - Front End Web Developer<br></li>
-<li><b>(October 2017 - September 2018) LiveCoinWatch, FrontEnd React Developer<br></li></ul><hr>
+<li><b>(October 2017 - September 2018) - LiveCoinWatch, FrontEnd React Developer<br></li></ul><hr>
 
 <ul><h3>Additional Skills:</h3>
 
