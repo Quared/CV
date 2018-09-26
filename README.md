@@ -32,21 +32,23 @@
 <li>Microsoft Office</li>
 <li>Photoshop</li>
 <li>Intelij</li>
-<li>Sublime Text</li><hr>
+<li>Sublime Text</li>
 <li>VS Code</li></ul><hr>
 <ul><h3>Professional skills:</h3>
   
-✔️ React, React Redux, React Router, Redux Saga
-✔️ ES6/7 JavaScript, JSON, AJAX
-✔️ HTML / HTML5 / PSD to HTML - W3C valid
-✔️ Responsive CSS / CSS3 , LESS / SASS / SCSS
-✔️ Responsive frameworks - Twitter Bootstrap, MaterializeCSS, Zurb Foundation
-✔️ Custom Websites Development 
-✔️ Git, BitBucket
-✔️ Zeplin , Trello
-✔️ PixelPerfect, Retina-Ready development (if requested)
-✔️ ICO Landing pages development
+<li>✔️ React, React Redux, React Router, Redux Saga</li>
+<li>✔️ ES6/7 JavaScript, JSON, AJAX</li>
+<li>✔️ HTML / HTML5 / PSD to HTML - W3C valid</li>
+<li>✔️ Responsive CSS / CSS3 , LESS / SASS / SCSS</li>
+<li>✔️ Responsive frameworks - Twitter Bootstrap, MaterializeCSS, Zurb Foundation</li>
+<li>✔️ Custom Websites Development </li>
+<li>✔️ Git, BitBucket</li>
+<li>✔️ Zeplin , Trello</li>
+<li>✔️ PixelPerfect, Retina-Ready development (if requested)</li>
+<li>✔️ ICO Landing pages development</li>
+
 <br/>
+
 <ul><h3>My hobbies:</h3>
 <li>Fitness</li>
 <li>Cinema</li></ul><hr>
