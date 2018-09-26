@@ -8,7 +8,7 @@
 <b>Upwork</b> https://www.upwork.com/fl/webdev<br>
 <ul><h3>Objective:</h3>
 
-<li>FrontEnd Developer ( React/Redux/Saga) <br></li></ul><hr>
+<li><h1>FrontEnd Developer ( React/Redux/Saga )</h1> <br></li></ul><hr>
 
 <ul><h3>Education:</h3>
 
