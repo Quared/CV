@@ -1,4 +1,3 @@
-<img src="https://github.com/Quared/resume/blob/master/img/205-104.jpg">
 <b>Date of birth:</b> April, 20, 1993<br>
 <b>Age:</b> 24 <br>
 <b>Marital status:</b> Married</b></br>
