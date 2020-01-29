@@ -1,6 +1,6 @@
 <b>Date of birth:</b> April, 20, 1993<br>
 <b>Marital status:</b> Married</b></br>
-<b>LinkedIn</b> https://www.linkedin.com/in/volodymyr-mishakin-6030a310a/<br>
+<b>LinkedIn:</b> https://www.linkedin.com/in/volodymyr-mishakin-6030a310a/<br>
 
 <h3>Objective:</h3>
 <h1>FrontEnd Developer ( React/Redux/Saga )</h1>
