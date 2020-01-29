@@ -15,7 +15,7 @@
 
 <li><b>(November 2014 - January 2015) - HOTWEB - HTML5/CSS3 Developer<br></li>
 <li><b>(January 2015 - PRESENT) Upwork - Front End Web Developer<br></li>
-<li><b>(October 2017 - September 2018) - LiveCoinWatch, FrontEnd React Developer<br></li></ul>
+<li><b>(October 2017 - September 2018) - LiveCoinWatch, FrontEnd React Developer<br></li>
 <li><b>(September 2018 - January 2020) - Nomisma, FrontEnd React Developer<br></li></ul><hr>
 
 
@@ -36,7 +36,7 @@
 <li>✔️ Responsive frameworks - Twitter Bootstrap, MaterializeCSS, Zurb Foundation</li>
 <li>✔️ GitHub, BitBucket</li>
 <li>✔️ Zeplin, Figma, Trello</li>
-<li>✔️ PixelPerfect, Retina-Ready development</li>
+<li>✔️ PixelPerfect, Retina-Ready development</li></ul>
 
 <br/>
 
