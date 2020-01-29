@@ -1,10 +1,6 @@
 <b>Date of birth:</b> April, 20, 1993<br>
-<b>Age:</b> 24 <br>
 <b>Marital status:</b> Married</b></br>
-<b>Address:</b> Dnepropetrovsk, Sherbiny st.21, app.104</br>
-<b>Skype:</b> quaredua<br>
-<b>Facebook</b> https://www.facebook.com/vova.mishakin<br>
-<b>Upwork</b> https://www.upwork.com/fl/webdev<br>
+<b>LinkedIn</b> https://www.linkedin.com/in/volodymyr-mishakin-6030a310a/<br>
 
 <h3>Objective:</h3>
 <h1>FrontEnd Developer ( React/Redux/Saga )</h1>
