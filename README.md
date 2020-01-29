@@ -38,7 +38,7 @@
 <li>✔️ Zeplin, Figma, Trello</li>
 <li>✔️ PixelPerfect, Retina-Ready development</li></ul>
 
-<br/>
+<br/><hr>
 
 <ul><h3>My hobbies:</h3>
 <li>Family</li>
